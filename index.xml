@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ixuner&#39;s blog</title>
+        <link>http://example.org/</link>
+        <description>ixuner&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1547884893@qq.com (ixuner)</managingEditor>
+            <webMaster>1547884893@qq.com (ixuner)</webMaster><lastBuildDate>Thu, 28 Oct 2021 13:21:11 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>求生之路2插件安装教程</title>
+    <link>http://example.org/posts/2021-09-28-%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF%E6%8F%922%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</link>
+    <pubDate>Thu, 28 Oct 2021 13:21:11 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/2021-09-28-%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF%E6%8F%922%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</guid>
+    <description><![CDATA[从 17 年开始接触开服，一直到现在，一些经验和走过的坑，记录一下。 1、安装插件平台 建议去官网下载，别用什么xxx整合包。当初刚开始接触插件，用的]]></description>
+</item></channel>
+</rss>
